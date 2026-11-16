@@ -6,7 +6,7 @@
 
 | Field | Details |
 | --- | --- |
-| **Pentester Name** | Student Pentester |
+| **Pentester Name** | Aagnick Naha |
 | **Program / Batch** | Network Walks Cybersecurity Lab |
 | **Date** | 17 November 2026 |
 | **Modules Completed** | Password Cracking with NW Tools / Dictionary Attack Lab |
